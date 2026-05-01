@@ -31,3 +31,5 @@ Abre el archivo index.html en tu navegador.
 
 
 <img width="1356" height="649" alt="image" src="https://github.com/user-attachments/assets/e469b1f0-fd95-46be-85d4-d7785c0a396a" />
+<img width="1600" height="856" alt="WhatsApp Image 2026-04-30 at 7 48 20 PM" src="https://github.com/user-attachments/assets/3c71657c-f52d-43a4-8953-ce49d9fc87b0" />
+
