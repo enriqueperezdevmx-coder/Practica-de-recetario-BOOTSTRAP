@@ -24,3 +24,6 @@ proyecto/
 └── fotos/
 ##  Cómo correrlo
 Abre el archivo index.html en tu navegador.
+
+
+<img width="1356" height="649" alt="image" src="https://github.com/user-attachments/assets/e469b1f0-fd95-46be-85d4-d7785c0a396a" />
