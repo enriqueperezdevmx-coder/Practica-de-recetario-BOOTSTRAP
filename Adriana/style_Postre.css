@@ -1,0 +1,26 @@
+/*Receta Flan Napolitano*/
+body{
+    margin: 1;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.title{
+    color: rgb(218, 27, 65);
+}
+.sub_title{
+    color: indianred;
+}
+.cuadro{
+      border: solid 1px rgb(182, 7, 7);
+    padding: 15px;
+    margin: 10px 0;
+    width:500px;
+    background-color: rgb(241, 191, 191);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+
+}
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: crimson;
+}
